@@ -1,7 +1,7 @@
 # Hasil Suara
 
 
-|Partai politik                                |FIELD2                                    |FIELD3                                  |FIELD4       |Suara          |FIELD6|Kandidat    |FIELD8        |FIELD9|
+|Partai politik                                |Koalisi                                    |Partai                                  |Singkatan       |Suara          |Presentase|Kandidat    |Caleg Terpilih        |Presentase Keterpilihan|
 |----------------------------------------------|------------------------------------------|----------------------------------------|-------------|---------------|------|------------|--------------|------|
 |                                              |                                          |                                        |             |Jumlah suara   |%     |Jumlah caleg|Caleg terpilih|%     |
 |                                              |Pakatan Harapan                           |                                        |PH           |5,896,142      |38    |220         |82            |37.1  |
